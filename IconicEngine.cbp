@@ -30,10 +30,14 @@
 		</Build>
 		<Compiler>
 			<Add option="-Wall" />
+			<Add directory="Src/Headers" />
 		</Compiler>
-		<Unit filename="../Src/Headers/Engine.cpp" />
-		<Unit filename="../Src/Headers/Engine.h" />
-		<Unit filename="../Src/main.cpp" />
+		<Linker>
+			<Add directory="Src/Headers" />
+		</Linker>
+		<Unit filename="Src/Engine.cpp" />
+		<Unit filename="Src/Headers/Engine.h" />
+		<Unit filename="Src/main.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
