@@ -4,3 +4,91 @@
 
 1365391066 c:\users\gaming\documents\github\iconicengine\src\headers\engine.h
 
+1365391571 source:c:\users\bryan\documents\github\iconicengine\src\engine.cpp
+	"Engine.h"
+
+1365391571 c:\users\bryan\documents\github\iconicengine\src\headers\engine.h
+
+1365391571 source:c:\users\bryan\documents\github\iconicengine\src\main.cpp
+	<iostream>
+
+1365397232 source:c:\users\bryan\documents\github\iconicengine\src\aiobjects.cpp
+	"AIObjects.h"
+
+1365397194 c:\users\bryan\documents\github\iconicengine\src\headers\aiobjects.h
+	<AnimatedObject.h>
+
+1365396839 c:\users\bryan\documents\github\iconicengine\src\headers\animatedobject.h
+	<DynamicObject.h>
+
+1365392952 c:\users\bryan\documents\github\iconicengine\src\headers\dynamicobject.h
+	<RenderedObjects.h>
+
+1365395108 c:\users\bryan\documents\github\iconicengine\src\headers\renderedobjects.h
+	<GameObject.h>
+
+1365394725 c:\users\bryan\documents\github\iconicengine\src\headers\gameobject.h
+
+1365397293 source:c:\users\bryan\documents\github\iconicengine\src\animatedguiobject.cpp
+	"AnimatedGUIObject.h"
+
+1365397268 c:\users\bryan\documents\github\iconicengine\src\headers\animatedguiobject.h
+	<AnimatedObject.h>
+
+1365395373 source:c:\users\bryan\documents\github\iconicengine\src\animatedobject.cpp
+	"AnimatedObject.h"
+
+1365392952 source:c:\users\bryan\documents\github\iconicengine\src\dynamicobject.cpp
+	"DynamicObject.h"
+
+1365394855 c:\users\bryan\documents\github\iconicengine\src\dynamicobject.h
+	<RenderedObjects.h>
+
+1365393289 source:c:\users\bryan\documents\github\iconicengine\src\emptyobject.cpp
+	"EmptyObject.h"
+
+1365393289 c:\users\bryan\documents\github\iconicengine\src\headers\emptyobject.h
+	<GameObject.h>
+
+1365395509 source:c:\users\bryan\documents\github\iconicengine\src\itemobject.cpp
+	"ItemObject.h"
+
+1365395470 c:\users\bryan\documents\github\iconicengine\src\headers\itemobject.h
+	<NonAnimatedObject.h>
+
+1365393099 c:\users\bryan\documents\github\iconicengine\src\headers\nonanimatedobject.h
+	<DynamicObject.h>
+
+1365393100 source:c:\users\bryan\documents\github\iconicengine\src\nonanimatedobject.cpp
+	"NonAnimatedObject.h"
+
+1365397111 source:c:\users\bryan\documents\github\iconicengine\src\playerobject.cpp
+	"PlayerObject.h"
+
+1365397041 c:\users\bryan\documents\github\iconicengine\src\headers\playerobject.h
+	<AnimatedObject.h>
+
+1365395147 source:c:\users\bryan\documents\github\iconicengine\src\renderedobjects.cpp
+	"RenderedObjects.h"
+
+1365395253 source:c:\users\bryan\documents\github\iconicengine\src\staticguiobject.cpp
+	"StaticGUIObject.h"
+
+1365395248 c:\users\bryan\documents\github\iconicengine\src\headers\staticguiobject.h
+	<StaticObject.h>
+
+1365392987 c:\users\bryan\documents\github\iconicengine\src\headers\staticobject.h
+	<RenderedObjects.h>
+
+1365392987 source:c:\users\bryan\documents\github\iconicengine\src\staticobject.cpp
+	"StaticObject.h"
+
+1365393316 source:c:\users\bryan\documents\github\iconicengine\src\triggerobject.cpp
+	"TriggerObject.h"
+
+1365393316 c:\users\bryan\documents\github\iconicengine\src\headers\triggerobject.h
+	<EmptyObject.h>
+
+1365394951 source:c:\users\bryan\documents\github\iconicengine\src\gameobject.cpp
+	"GameObject.h"
+
